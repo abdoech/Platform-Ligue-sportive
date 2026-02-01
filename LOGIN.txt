@@ -1,0 +1,6 @@
+Admin login
+-----------
+Email:    admin@example.com
+Password: password
+
+URL: http://localhost:8000/login
